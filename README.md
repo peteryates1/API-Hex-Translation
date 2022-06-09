@@ -3,6 +3,7 @@
 ## Assumptions
 
 * As per the examples, byte position is left to right.
+* The keys are 7 characters wide (i.e. 28 bits) - should they be 8 (32 bits)?  (Assuming 7 as there are 3 and all are.)
 
 ### Goal
 
